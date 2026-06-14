@@ -64,6 +64,8 @@ validate = ["options.txt", "servers.dat"]
 
 Files listed in `validate` are re-checked against the metaserver hash on every launch and overwritten if the user's local copy diverges. Files **not** listed are written only once (first install) and treated as user-owned afterward.
 
+Entries in `validate` are **flat filenames**, not nested paths — each `Meta.toml` only applies to direct children of its own directory. To validate a file in a subdirectory, place another `Meta.toml` inside that subdirectory.
+
 ## Adding a new instance
 
 1. `mkdir <name>/` at the repo root.
