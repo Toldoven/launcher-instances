@@ -1,6 +1,0 @@
-id="architectury-api"
-provider="modrinth"
-
-[locale.ru]
-title = "Architectury API"
-description = "Библиотека которая нужна для некоторых модов"
