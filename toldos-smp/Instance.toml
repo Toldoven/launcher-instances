@@ -1,0 +1,6 @@
+name="Toldo's SMP"
+game_version="26.1.2"
+
+[loader]
+type="Fabric"
+version="0.19.3"

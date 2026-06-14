@@ -1,0 +1,6 @@
+id="cloth-config"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Cloth Config API"

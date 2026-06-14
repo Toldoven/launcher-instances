@@ -1,0 +1,1 @@
+{"main_menu":{"bottom_right":[{"text":"Toldo's SMP","click_event":{"action":"open_url","url":"https://t.me/Toldoven"},"hover_event":{"action":"show_text","value":"https://t.me/Toldoven"}}]},"pause_menu":{"bottom_right":[{"translate":"isxander-main-menu-credits.fabrishot","fallback":"Take 4K screenshots with F9","color":"dark_gray","strikethrough":false}]}}

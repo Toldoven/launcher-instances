@@ -1,0 +1,6 @@
+id="controlify"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Controlify"

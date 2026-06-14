@@ -1,0 +1,6 @@
+id="morechathistory"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="More Chat History"

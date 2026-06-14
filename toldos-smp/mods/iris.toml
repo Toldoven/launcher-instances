@@ -1,0 +1,6 @@
+id="iris"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Iris Shaders"

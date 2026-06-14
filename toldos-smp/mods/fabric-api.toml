@@ -1,0 +1,6 @@
+id="fabric-api"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Fabric API"

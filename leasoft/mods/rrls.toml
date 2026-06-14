@@ -1,0 +1,6 @@
+id="rrls"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Remove Reloading Screen"
