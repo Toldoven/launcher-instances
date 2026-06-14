@@ -1,6 +1,6 @@
-id="lithium"
+id="dynamic-fps"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Dynamic FPS"

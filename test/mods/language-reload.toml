@@ -1,6 +1,6 @@
-id="lithium"
+id="language-reload"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Language Reload"

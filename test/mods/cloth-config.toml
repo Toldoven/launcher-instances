@@ -1,6 +1,6 @@
-id="lithium"
+id="cloth-config"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Cloth Config API"

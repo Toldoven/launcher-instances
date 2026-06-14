@@ -1,6 +1,6 @@
-id="lithium"
+id="iris"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Iris Shaders"

@@ -1,6 +1,6 @@
-id="lithium"
+id="configmanager"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Config Manager"

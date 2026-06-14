@@ -1,3 +1,2 @@
 .DS_Store
-/verse/mods/disabled
-/verse/mods/optional/disabled
+.idea/

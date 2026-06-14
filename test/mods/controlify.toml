@@ -1,6 +1,6 @@
-id="lithium"
+id="controlify"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Controlify"

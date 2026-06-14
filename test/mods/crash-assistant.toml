@@ -1,6 +1,6 @@
-id="lithium"
+id="crash-assistant"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Crash Assistant"

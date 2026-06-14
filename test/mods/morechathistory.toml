@@ -1,6 +1,6 @@
-id="lithium"
+id="morechathistory"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="More Chat History"

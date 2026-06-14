@@ -1,6 +1,6 @@
-id="lithium"
+id="entityculling"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="Entity Culling"

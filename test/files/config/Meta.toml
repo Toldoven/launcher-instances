@@ -1,0 +1,5 @@
+validate = [
+  "debugify.json",
+  "isxander-main-menu-credits.json",
+  "fabric_loader_dependencies.json",
+]

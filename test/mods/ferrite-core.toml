@@ -1,6 +1,6 @@
-id="lithium"
+id="ferrite-core"
 provider="modrinth"
 version="release"
 
 [locale.en]
-title="Lithium"
+title="FerriteCore"
