@@ -1,5 +1,5 @@
 name="Test"
-game_version="26.1.2"
+game_version="26.2"
 
 [loader]
 type="Fabric"
