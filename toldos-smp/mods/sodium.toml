@@ -1,6 +1,6 @@
 id="sodium"
 provider="modrinth"
-version="mc26.2-0.9.1-beta.3-fabric"
+version="release"
 
 [locale.en]
 title="Sodium"
