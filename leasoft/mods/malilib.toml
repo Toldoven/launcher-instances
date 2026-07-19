@@ -1,0 +1,6 @@
+id="malilib"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="MaLiLib"

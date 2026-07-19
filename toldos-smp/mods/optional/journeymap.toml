@@ -1,0 +1,6 @@
+id="journeymap"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="JourneyMap"

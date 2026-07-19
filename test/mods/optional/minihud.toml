@@ -1,0 +1,6 @@
+id="minihud"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="MiniHUD"
