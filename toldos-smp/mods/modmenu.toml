@@ -1,0 +1,6 @@
+id="modmenu"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Mod Menu"

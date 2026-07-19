@@ -1,0 +1,6 @@
+id="crash-assistant"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Crash Assistant"

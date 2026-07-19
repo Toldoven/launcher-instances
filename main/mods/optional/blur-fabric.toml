@@ -1,6 +1,0 @@
-id="blur-fabric"
-provider="modrinth"
-
-[locale.ru]
-title = "Blur"
-description = "Добавлеяет размытие под GUI"

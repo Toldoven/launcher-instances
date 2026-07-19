@@ -1,0 +1,6 @@
+id="entityculling"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Entity Culling"

@@ -1,0 +1,6 @@
+id="fastquit"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="FastQuit"

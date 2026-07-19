@@ -1,0 +1,6 @@
+id="plasmo-voice"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Plasmo Voice"

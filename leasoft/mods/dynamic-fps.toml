@@ -1,0 +1,6 @@
+id="dynamic-fps"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Dynamic FPS"

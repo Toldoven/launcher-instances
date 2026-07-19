@@ -1,0 +1,6 @@
+id="configmanager"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Config Manager"

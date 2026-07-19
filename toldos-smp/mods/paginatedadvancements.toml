@@ -1,0 +1,6 @@
+id="paginatedadvancements"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Paginated Advancements"

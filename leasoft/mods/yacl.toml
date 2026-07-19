@@ -1,0 +1,6 @@
+id="yacl"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="YetAnotherConfigLib"

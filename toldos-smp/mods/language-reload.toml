@@ -1,0 +1,6 @@
+id="language-reload"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Language Reload"

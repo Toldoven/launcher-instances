@@ -1,0 +1,6 @@
+id="cape-provider"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Cape Provider"

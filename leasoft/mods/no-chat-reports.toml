@@ -1,0 +1,6 @@
+id="no-chat-reports"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="No Chat Reports"

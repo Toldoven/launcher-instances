@@ -1,0 +1,6 @@
+id="optigui"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="OptiGUI"

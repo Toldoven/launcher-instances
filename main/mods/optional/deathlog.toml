@@ -1,6 +1,0 @@
-id="deathlog"
-provider="modrinth"
-
-[locale.ru]
-title = "DeathLog"
-description = "Записывает информацию о ваших смертях"

@@ -1,6 +1,0 @@
-id="iris"
-provider="modrinth"
-
-[locale.ru]
-title = "Iris"
-description = "Позволяет использовать шейдеры с Sodium"

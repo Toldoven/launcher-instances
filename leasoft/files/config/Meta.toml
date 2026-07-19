@@ -1,0 +1,4 @@
+validate = [
+  "debugify.json",
+  "isxander-main-menu-credits.json",
+]

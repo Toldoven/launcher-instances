@@ -1,0 +1,6 @@
+id="forge-config-api-port"
+provider="modrinth"
+version="release"
+
+[locale.en]
+title="Forge Config API Port"

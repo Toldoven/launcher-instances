@@ -1,0 +1,10 @@
+[general]
+help_link = "https://t.me/Toldoven"
+
+[greeting]
+shown_greeting = true
+
+[text]
+support_name = "Toldoven's Telegram"
+support_place = "the chat"
+modpack_name = "Toldo's SMP"

@@ -1,0 +1,10 @@
+[general]
+help_link = "https://leasoft.slack.com/archives/D08B9MNBQE8"
+
+[greeting]
+shown_greeting = true
+
+[text]
+support_name = "LeaSoft Slack"
+support_place = "a DM to Cyril Pidhainyi"
+modpack_name = "LeaSoft"
